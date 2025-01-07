@@ -1,5 +1,10 @@
 # Magic 8-Ball
 
+
+![alt text](https://github.com/subproject9/Magic_8-Ball/blob/main/Magic-8ball_screenshot.png?raw=true)
+
+
+
 ## Deploy
 
 
