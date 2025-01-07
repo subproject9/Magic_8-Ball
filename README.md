@@ -61,6 +61,10 @@ Rebuild and restart:
 `docker compose up --build -d`
 
 
+### Created using bolt.diy and Anthropic Claude 3.5 Sonnet
+
+
+
 ---
 
 
