@@ -5,11 +5,11 @@
 
 
 ## Deploy from Dcoker Hub
-'docker run -d -p 80:80 your-username/magic8ball:latest'
+`docker run -d -p 80:80 your-username/magic8ball:latest`
 
 
 
-## Deploy from code
+## Deploy from source
 
 
 Build and Run:                  
