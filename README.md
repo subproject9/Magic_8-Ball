@@ -5,7 +5,7 @@
 
 
 ## Deploy from Dcoker Hub
-`docker run -d -p 80:80 your-username/magic8ball:latest`
+`docker run -d -p 80:80 subproject9/magic8ball:latest`
 
 
 
