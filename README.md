@@ -2,6 +2,26 @@ Magic 8-Ball
 
 ## Deploy
 
+
+Build and Run:                  
+`docker compose up --build -d`
+
+Access the application:   
+`Open the browser and navigate to http://localhost`
+
+Start the application:      
+`docker compose up -d`
+
+Stop the application:    
+`docker compose down`
+
+View logs:              
+`docker compose logs -f`
+
+Rebuild and restart:
+`docker compose up --build -d`
+
+
 ---
 
 ## Key Features:
